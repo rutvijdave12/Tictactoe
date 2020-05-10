@@ -9,4 +9,4 @@ Run the code to play the game in command line.
 
 
 
-*********Thank You********
+********Thank You********
